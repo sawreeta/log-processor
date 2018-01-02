@@ -5,10 +5,7 @@ A solution that reads the given log files ,processes its content and provides a 
 - wamp or xampp server installed on your local machine
 
 # Getting Started
-* Get a copy of the project from the repository .
-```
-https://bitbucket.org/sawreeta/yipl-se-log-processor/src/e4d22038ab43fec37419dd687e750a1f7fe2dcd7/log-processor/
-```
+* Get a copy of the project from this repository .
 * Then Open CLI and change the directory from local drive to the location where you have placed the files .
 * Execute the following script.
 ```
