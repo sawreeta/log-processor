@@ -19,4 +19,4 @@ php process.php -f example.log example1.log
 You can also test it by uncommenting the array_push part in process.php.
 
 # Output
-![Alt text](../../../downloads/outputscreenshot.png?raw=true "Optional Title")
+![Alt text](https://github.com/sawreeta/log-processor/blob/master/outputscreenshot.png "Optional Title")
